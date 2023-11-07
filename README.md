@@ -1,2 +1,2 @@
-# arvores
-arvores binaria e AVL
+# arvors
+arvors bynarya e AVL
